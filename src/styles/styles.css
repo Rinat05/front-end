@@ -1,0 +1,38 @@
+.photo{
+	float:left;
+	background-color: #D8D8D8;
+	width: 428px;
+	height: 355px;
+	margin-left: 79px;
+	margin-top: 45px;
+}
+.background{
+	float:left;
+	width:700px;
+	height: 44px;
+	margin-left: 60px;
+	margin-top: 45px;
+	background-color: #e7c734;
+}
+.bg_text{
+	padding-left: 36px;
+	padding-top: 7px;
+	font-size: 23px;
+	letter-spacing: 1px;
+	line-height: 31px;
+	color: #424243;
+	font-family: "Arial";
+}
+.text{
+	line-height: 31px;
+	text-align: left;
+	width: 700px;
+	height: 44px;
+	margin-left: 60px;
+	margin-top: 34px;
+	font-size: 18px;
+	font-family: "Arial";
+	position: absolute;
+	margin-top:124px;
+	margin-left: 568px;	
+}
